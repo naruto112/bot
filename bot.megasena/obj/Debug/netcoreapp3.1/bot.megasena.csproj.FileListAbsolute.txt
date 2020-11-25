@@ -1,0 +1,12 @@
+/Volumes/Dev2/Estudo/bot/bot.megasena/bin/Debug/netcoreapp3.1/bot.megasena.deps.json
+/Volumes/Dev2/Estudo/bot/bot.megasena/bin/Debug/netcoreapp3.1/bot.megasena.runtimeconfig.json
+/Volumes/Dev2/Estudo/bot/bot.megasena/bin/Debug/netcoreapp3.1/bot.megasena.runtimeconfig.dev.json
+/Volumes/Dev2/Estudo/bot/bot.megasena/bin/Debug/netcoreapp3.1/bot.megasena.dll
+/Volumes/Dev2/Estudo/bot/bot.megasena/bin/Debug/netcoreapp3.1/bot.megasena.pdb
+/Volumes/Dev2/Estudo/bot/bot.megasena/obj/Debug/netcoreapp3.1/bot.megasena.csprojAssemblyReference.cache
+/Volumes/Dev2/Estudo/bot/bot.megasena/obj/Debug/netcoreapp3.1/bot.megasena.AssemblyInfoInputs.cache
+/Volumes/Dev2/Estudo/bot/bot.megasena/obj/Debug/netcoreapp3.1/bot.megasena.AssemblyInfo.cs
+/Volumes/Dev2/Estudo/bot/bot.megasena/obj/Debug/netcoreapp3.1/bot.megasena.csproj.CoreCompileInputs.cache
+/Volumes/Dev2/Estudo/bot/bot.megasena/obj/Debug/netcoreapp3.1/bot.megasena.dll
+/Volumes/Dev2/Estudo/bot/bot.megasena/obj/Debug/netcoreapp3.1/bot.megasena.pdb
+/Volumes/Dev2/Estudo/bot/bot.megasena/obj/Debug/netcoreapp3.1/bot.megasena.genruntimeconfig.cache

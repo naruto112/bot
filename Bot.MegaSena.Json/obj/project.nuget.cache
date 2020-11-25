@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qn0rB9I9LEIVJ6l22KiSUuZrF3x+wUwB4M29hcobFvG55o9TOwSaoxFruLeWw5pRI7Hhy7NQfQE+UW0CDQd+Ow==",
+  "success": true,
+  "projectFilePath": "/Volumes/Dev2/Estudo/bot/Bot.MegaSena.Json/Bot.MegaSena.Json.csproj",
+  "expectedPackageFiles": [
+    "/Users/renato.dev/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

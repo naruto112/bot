@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5518D8E2-155D-4C47-9DEE-3098C26A33C5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bot.MegaSena.Html PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Bot.MegaSena.Json PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bot" expanded="True">
+            <Node name="Bot.Instagram.Selenium" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bot.Instagram.Selenium PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Bot.Instagram.Profile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Dev2/Estudo/bot/Bot.Instagram.Profile/Program.cs" relfile="Bot.Instagram.Profile/Program.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

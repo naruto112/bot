@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "bot.megasena/1.0.0": {
+        "runtime": {
+          "bot.megasena.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bot.megasena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpdI8sUD+tp2XRsQuE8V3miQL8Nov5b/8pdKZQYV2EWvbOb5z9UkhiDJAxa0FfxnMA/RuOJISnatuR+Ff6fYhg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Dev2/Estudo/bot/Bot.Instagram.Profile/Bot.Instagram.Profile.csproj",
+  "expectedPackageFiles": [
+    "/Users/renato.dev/.nuget/packages/htmlagilitypack/1.11.28/htmlagilitypack.1.11.28.nupkg.sha512"
+  ],
+  "logs": []
+}
